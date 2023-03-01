@@ -3,7 +3,7 @@ version: v4.0.0
 data:
   id: 3410e9a8-424d-4436-9b90-3033a435bdf7
   name: PizzaShackAPI
-  description: This is a simple API for Pizza Shack online pizza delivery store.
+  description: This is a simple API for Pizza Shack online pizza delivery store AAAA.
   context: /pizzashack
   version: 1.0.0
   provider: admin
